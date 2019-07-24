@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521942078980",
+    "firebase_url": "https://shop-fabe7.firebaseio.com",
+    "project_id": "shop-fabe7",
+    "storage_bucket": "shop-fabe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521942078980:android:cb40bfb5d91e2238",
+        "android_client_info": {
+          "package_name": "com.kelvin.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521942078980-p6ke21nrtlu8kqfu9ik1jb04saqnh4vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin.shop",
+            "certificate_hash": "a1d5ff398b207012d95e6e84d2905d80d5385ddf"
+          }
+        },
+        {
+          "client_id": "521942078980-di9dg8sbbthgia9scj01pknpqb4oo1cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7UPadDDVD2xRNXW3srgm1pm8D0X0vvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521942078980-di9dg8sbbthgia9scj01pknpqb4oo1cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
